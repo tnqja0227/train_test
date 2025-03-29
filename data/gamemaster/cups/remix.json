@@ -1,0 +1,19 @@
+{
+	"name": "remix",
+	"title": "Remix",
+	"include": [],
+	"exclude": [{
+		"filterType": "id",
+		"values": ["azumarill", "talonflame", "wigglytuff", "clodsire", "quagsire", "feraligatr", "dunsparce", "dewgong", "sandslash_alolan", "toxapex", "malamar", "mandibuzz", "diggersby", "jumpluff", "ferrothorn", "drapion", "marowak", "gastrodon", "serperior", "greninja"],
+		"leagues": [1500]
+	}, {
+		"filterType": "id",
+		"values": ["venusaur", "muk_alolan", "umbreon", "swampert", "empoleon", "togekiss", "giratina_altered", "cresselia", "talonflame", "obstagoon"],
+		"leagues": [2500]
+	}, {
+		"filterType": "tag",
+		"values": ["mega"]
+	}],
+	"partySize": 3,
+	"presetOnly": true
+}
